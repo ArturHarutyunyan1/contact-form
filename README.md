@@ -4,7 +4,7 @@ This is a simple working php contact form that can send messages to a recipient'
 
 ![.](./src/assets/preview.jpg)
 
-#Usage
+# Usage
 
 - Set up your XAMPP server to send emails
 - Create database (e.g) contact-form, and import messages.sql file there (src/sql/messages.sql)
