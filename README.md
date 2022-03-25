@@ -20,4 +20,4 @@ This is a simple working php contact form that can send messages to a recipient'
 
 # Author
 
-[ArturHarutyunyan](https://github.com/ArturHarutyunyan1)
+[Artur Harutyunyan](https://github.com/ArturHarutyunyan1)
